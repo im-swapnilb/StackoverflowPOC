@@ -1,0 +1,2084 @@
+2020-08-20 11:08:52,990 INFO  [Log] Priyanker  .a 
+2020-08-20 11:08:53,048 INFO  [Log] Erroror   123 questions 
+2020-08-20 11:08:53,048 INFO  [Log] middle  .a 
+2020-08-20 11:08:53,048 INFO  [Log] number value  123 
+2020-08-20 11:08:54,106 INFO  [Log] Priyanker  .ajax 
+2020-08-20 11:08:54,153 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:08:54,153 INFO  [Log] middle  .ajax 
+2020-08-20 11:08:54,153 INFO  [Log] number value  0 
+2020-08-20 11:08:55,212 INFO  [Log] Priyanker  .app 
+2020-08-20 11:08:55,264 INFO  [Log] Erroror   135 questions 
+2020-08-20 11:08:55,264 INFO  [Log] middle  .app 
+2020-08-20 11:08:55,264 INFO  [Log] number value  135 
+2020-08-20 11:08:56,326 INFO  [Log] Priyanker  .aspxauth 
+2020-08-20 11:08:56,378 INFO  [Log] Erroror   58 questions 
+2020-08-20 11:08:56,379 INFO  [Log] middle  .aspxauth 
+2020-08-20 11:08:56,379 INFO  [Log] number value  58 
+2020-08-20 11:08:57,445 INFO  [Log] Priyanker  .avi 
+2020-08-20 11:08:57,495 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:08:57,496 INFO  [Log] middle  .avi 
+2020-08-20 11:08:57,496 INFO  [Log] number value  0 
+2020-08-20 11:08:58,686 INFO  [Log] Priyanker  .bash-profile 
+2020-08-20 11:08:58,879 INFO  [Log] Erroror   511 questions 
+2020-08-20 11:08:58,879 INFO  [Log] middle  .bash-profile 
+2020-08-20 11:08:58,879 INFO  [Log] number value  511 
+2020-08-20 11:08:59,942 INFO  [Log] Priyanker  .bashrc 
+2020-08-20 11:08:59,991 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:08:59,991 INFO  [Log] middle  .bashrc 
+2020-08-20 11:08:59,991 INFO  [Log] number value  0 
+2020-08-20 11:09:01,044 INFO  [Log] Priyanker  .bat 
+2020-08-20 11:09:01,096 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:01,096 INFO  [Log] middle  .bat 
+2020-08-20 11:09:01,097 INFO  [Log] number value  0 
+2020-08-20 11:09:02,155 INFO  [Log] Priyanker  .class-file 
+2020-08-20 11:09:02,203 INFO  [Log] Erroror   256 questions 
+2020-08-20 11:09:02,203 INFO  [Log] middle  .class-file 
+2020-08-20 11:09:02,203 INFO  [Log] number value  256 
+2020-08-20 11:09:03,256 INFO  [Log] Priyanker  .cs-file 
+2020-08-20 11:09:03,303 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:03,303 INFO  [Log] middle  .cs-file 
+2020-08-20 11:09:03,303 INFO  [Log] number value  0 
+2020-08-20 11:09:04,366 INFO  [Log] Priyanker  .cshtml 
+2020-08-20 11:09:04,418 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:04,418 INFO  [Log] middle  .cshtml 
+2020-08-20 11:09:04,418 INFO  [Log] number value  0 
+2020-08-20 11:09:05,474 INFO  [Log] Priyanker  .csv 
+2020-08-20 11:09:05,525 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:05,525 INFO  [Log] middle  .csv 
+2020-08-20 11:09:05,525 INFO  [Log] number value  0 
+2020-08-20 11:09:06,581 INFO  [Log] Priyanker  .ctf 
+2020-08-20 11:09:06,632 INFO  [Log] Erroror   1 question 
+2020-08-20 11:09:06,632 INFO  [Log] middle  .ctf 
+2020-08-20 11:09:06,632 INFO  [Log] number value  1 
+2020-08-20 11:09:07,685 INFO  [Log] Priyanker  .d.ts 
+2020-08-20 11:09:07,733 INFO  [Log] Erroror   86 questions 
+2020-08-20 11:09:07,734 INFO  [Log] middle  .d.ts 
+2020-08-20 11:09:07,734 INFO  [Log] number value  86 
+2020-08-20 11:09:08,805 INFO  [Log] Priyanker  .deb 
+2020-08-20 11:09:08,856 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:08,856 INFO  [Log] middle  .deb 
+2020-08-20 11:09:08,856 INFO  [Log] number value  0 
+2020-08-20 11:09:09,920 INFO  [Log] Priyanker  .dll 
+2020-08-20 11:09:09,959 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:09,959 INFO  [Log] middle  .dll 
+2020-08-20 11:09:09,959 INFO  [Log] number value  0 
+2020-08-20 11:09:11,016 INFO  [Log] Priyanker  .doc 
+2020-08-20 11:09:11,061 INFO  [Log] Erroror   136 questions 
+2020-08-20 11:09:11,061 INFO  [Log] middle  .doc 
+2020-08-20 11:09:11,061 INFO  [Log] number value  136 
+2020-08-20 11:09:12,119 INFO  [Log] Priyanker  .each 
+2020-08-20 11:09:12,165 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:12,165 INFO  [Log] middle  .each 
+2020-08-20 11:09:12,165 INFO  [Log] number value  0 
+2020-08-20 11:09:13,226 INFO  [Log] Priyanker  .emf 
+2020-08-20 11:09:13,272 INFO  [Log] Erroror   55 questions 
+2020-08-20 11:09:13,272 INFO  [Log] middle  .emf 
+2020-08-20 11:09:13,272 INFO  [Log] number value  55 
+2020-08-20 11:09:14,328 INFO  [Log] Priyanker  .flv 
+2020-08-20 11:09:14,378 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:14,378 INFO  [Log] middle  .flv 
+2020-08-20 11:09:14,378 INFO  [Log] number value  0 
+2020-08-20 11:09:15,432 INFO  [Log] Priyanker  .getjson 
+2020-08-20 11:09:15,474 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:15,474 INFO  [Log] middle  .getjson 
+2020-08-20 11:09:15,474 INFO  [Log] number value  0 
+2020-08-20 11:09:16,533 INFO  [Log] Priyanker  .git-folder 
+2020-08-20 11:09:16,581 INFO  [Log] Erroror   19 questions 
+2020-08-20 11:09:16,581 INFO  [Log] middle  .git-folder 
+2020-08-20 11:09:16,581 INFO  [Log] number value  19 
+2020-08-20 11:09:17,645 INFO  [Log] Priyanker  .git-info-grafts 
+2020-08-20 11:09:17,701 INFO  [Log] Erroror   6 questions 
+2020-08-20 11:09:17,701 INFO  [Log] middle  .git-info-grafts 
+2020-08-20 11:09:17,702 INFO  [Log] number value  6 
+2020-08-20 11:09:18,763 INFO  [Log] Priyanker  .hgignore 
+2020-08-20 11:09:18,806 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:18,806 INFO  [Log] middle  .hgignore 
+2020-08-20 11:09:18,806 INFO  [Log] number value  0 
+2020-08-20 11:09:19,868 INFO  [Log] Priyanker  .hgtags 
+2020-08-20 11:09:19,918 INFO  [Log] Erroror   9 questions 
+2020-08-20 11:09:19,918 INFO  [Log] middle  .hgtags 
+2020-08-20 11:09:19,918 INFO  [Log] number value  9 
+2020-08-20 11:09:20,989 INFO  [Log] Priyanker  .htaccess 
+2020-08-20 11:09:21,041 INFO  [Log] Erroror   68415 questions 
+2020-08-20 11:09:21,041 INFO  [Log] middle  .htaccess 
+2020-08-20 11:09:21,041 INFO  [Log] number value  68415 
+2020-08-20 11:09:22,104 INFO  [Log] Priyanker  .htpasswd 
+2020-08-20 11:09:22,150 INFO  [Log] Erroror   497 questions 
+2020-08-20 11:09:22,150 INFO  [Log] middle  .htpasswd 
+2020-08-20 11:09:22,150 INFO  [Log] number value  497 
+2020-08-20 11:09:23,215 INFO  [Log] Priyanker  .ico 
+2020-08-20 11:09:23,264 INFO  [Log] Erroror   26 questions 
+2020-08-20 11:09:23,264 INFO  [Log] middle  .ico 
+2020-08-20 11:09:23,264 INFO  [Log] number value  26 
+2020-08-20 11:09:24,342 INFO  [Log] Priyanker  .inf 
+2020-08-20 11:09:24,398 INFO  [Log] Erroror   1 question 
+2020-08-20 11:09:24,398 INFO  [Log] middle  .inf 
+2020-08-20 11:09:24,398 INFO  [Log] number value  1 
+2020-08-20 11:09:25,460 INFO  [Log] Priyanker  .ini 
+2020-08-20 11:09:25,511 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:25,511 INFO  [Log] middle  .ini 
+2020-08-20 11:09:25,511 INFO  [Log] number value  0 
+2020-08-20 11:09:26,570 INFO  [Log] Priyanker  .jar 
+2020-08-20 11:09:26,612 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:26,612 INFO  [Log] middle  .jar 
+2020-08-20 11:09:26,612 INFO  [Log] number value  0 
+2020-08-20 11:09:27,663 INFO  [Log] Priyanker  .java 
+2020-08-20 11:09:27,715 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:27,715 INFO  [Log] middle  .java 
+2020-08-20 11:09:27,715 INFO  [Log] number value  0 
+2020-08-20 11:09:28,774 INFO  [Log] Priyanker  .js 
+2020-08-20 11:09:28,826 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:09:28,826 INFO  [Log] middle  .js 
+2020-08-20 11:09:28,826 INFO  [Log] number value  0 
+2020-08-20 11:09:29,881 INFO  [Log] Priyanker  .layerdiagram 
+2020-08-20 11:09:29,928 INFO  [Log] Erroror   1 question 
+2020-08-20 11:09:29,928 INFO  [Log] middle  .layerdiagram 
+2020-08-20 11:09:29,928 INFO  [Log] number value  1 
+2020-08-20 11:09:30,990 INFO  [Log] Priyanker  .lib 
+2020-08-20 11:09:31,038 INFO  [Log] Erroror   116 questions 
+2020-08-20 11:09:31,038 INFO  [Log] middle  .lib 
+2020-08-20 11:09:31,038 INFO  [Log] number value  116 
+2020-08-20 11:09:32,105 INFO  [Log] Priyanker  .loc 
+2020-08-20 11:09:32,166 INFO  [Log] Erroror   4 questions 
+2020-08-20 11:09:32,167 INFO  [Log] middle  .loc 
+2020-08-20 11:09:32,167 INFO  [Log] number value  4 
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,265 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:09:33,266 INFO  [Log] finallyyyyyy   
+2020-08-20 11:31:52,940 INFO  [Log] Priyanker  .a 
+2020-08-20 11:31:52,985 INFO  [Log] Erroror   123 questions 
+2020-08-20 11:31:52,986 INFO  [Log] middle  .a 
+2020-08-20 11:31:52,986 INFO  [Log] number value  123 
+2020-08-20 11:33:13,365 INFO  [Log] Priyanker  .a 
+2020-08-20 11:33:13,417 INFO  [Log] Erroror   123 questions 
+2020-08-20 11:33:13,417 INFO  [Log] middle  .a 
+2020-08-20 11:33:13,417 INFO  [Log] number value  123 
+2020-08-20 11:33:14,518 INFO  [Log] Priyanker  .ajax 
+2020-08-20 11:33:14,572 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:14,572 INFO  [Log] middle  .ajax 
+2020-08-20 11:33:14,573 INFO  [Log] number value  0 
+2020-08-20 11:33:15,628 INFO  [Log] Priyanker  .app 
+2020-08-20 11:33:15,672 INFO  [Log] Erroror   135 questions 
+2020-08-20 11:33:15,672 INFO  [Log] middle  .app 
+2020-08-20 11:33:15,672 INFO  [Log] number value  135 
+2020-08-20 11:33:16,737 INFO  [Log] Priyanker  .aspxauth 
+2020-08-20 11:33:16,785 INFO  [Log] Erroror   58 questions 
+2020-08-20 11:33:16,785 INFO  [Log] middle  .aspxauth 
+2020-08-20 11:33:16,785 INFO  [Log] number value  58 
+2020-08-20 11:33:17,858 INFO  [Log] Priyanker  .avi 
+2020-08-20 11:33:17,904 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:17,904 INFO  [Log] middle  .avi 
+2020-08-20 11:33:17,905 INFO  [Log] number value  0 
+2020-08-20 11:33:18,960 INFO  [Log] Priyanker  .bash-profile 
+2020-08-20 11:33:19,010 INFO  [Log] Erroror   511 questions 
+2020-08-20 11:33:19,010 INFO  [Log] middle  .bash-profile 
+2020-08-20 11:33:19,010 INFO  [Log] number value  511 
+2020-08-20 11:33:20,068 INFO  [Log] Priyanker  .bashrc 
+2020-08-20 11:33:20,114 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:20,114 INFO  [Log] middle  .bashrc 
+2020-08-20 11:33:20,114 INFO  [Log] number value  0 
+2020-08-20 11:33:21,178 INFO  [Log] Priyanker  .bat 
+2020-08-20 11:33:21,223 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:21,223 INFO  [Log] middle  .bat 
+2020-08-20 11:33:21,223 INFO  [Log] number value  0 
+2020-08-20 11:33:22,277 INFO  [Log] Priyanker  .class-file 
+2020-08-20 11:33:22,317 INFO  [Log] Erroror   256 questions 
+2020-08-20 11:33:22,317 INFO  [Log] middle  .class-file 
+2020-08-20 11:33:22,317 INFO  [Log] number value  256 
+2020-08-20 11:33:23,388 INFO  [Log] Priyanker  .cs-file 
+2020-08-20 11:33:23,432 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:23,433 INFO  [Log] middle  .cs-file 
+2020-08-20 11:33:23,433 INFO  [Log] number value  0 
+2020-08-20 11:33:24,493 INFO  [Log] Priyanker  .cshtml 
+2020-08-20 11:33:24,542 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:24,542 INFO  [Log] middle  .cshtml 
+2020-08-20 11:33:24,542 INFO  [Log] number value  0 
+2020-08-20 11:33:25,596 INFO  [Log] Priyanker  .csv 
+2020-08-20 11:33:25,643 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:25,643 INFO  [Log] middle  .csv 
+2020-08-20 11:33:25,643 INFO  [Log] number value  0 
+2020-08-20 11:33:26,698 INFO  [Log] Priyanker  .ctf 
+2020-08-20 11:33:26,748 INFO  [Log] Erroror   1 question 
+2020-08-20 11:33:26,749 INFO  [Log] middle  .ctf 
+2020-08-20 11:33:26,749 INFO  [Log] number value  1 
+2020-08-20 11:33:27,810 INFO  [Log] Priyanker  .d.ts 
+2020-08-20 11:33:27,856 INFO  [Log] Erroror   86 questions 
+2020-08-20 11:33:27,856 INFO  [Log] middle  .d.ts 
+2020-08-20 11:33:27,856 INFO  [Log] number value  86 
+2020-08-20 11:33:28,916 INFO  [Log] Priyanker  .deb 
+2020-08-20 11:33:28,963 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:28,963 INFO  [Log] middle  .deb 
+2020-08-20 11:33:28,963 INFO  [Log] number value  0 
+2020-08-20 11:33:30,021 INFO  [Log] Priyanker  .dll 
+2020-08-20 11:33:30,073 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:30,073 INFO  [Log] middle  .dll 
+2020-08-20 11:33:30,073 INFO  [Log] number value  0 
+2020-08-20 11:33:31,135 INFO  [Log] Priyanker  .doc 
+2020-08-20 11:33:31,184 INFO  [Log] Erroror   136 questions 
+2020-08-20 11:33:31,184 INFO  [Log] middle  .doc 
+2020-08-20 11:33:31,184 INFO  [Log] number value  136 
+2020-08-20 11:33:32,242 INFO  [Log] Priyanker  .each 
+2020-08-20 11:33:32,290 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:32,290 INFO  [Log] middle  .each 
+2020-08-20 11:33:32,290 INFO  [Log] number value  0 
+2020-08-20 11:33:33,340 INFO  [Log] Priyanker  .emf 
+2020-08-20 11:33:33,414 INFO  [Log] Erroror   55 questions 
+2020-08-20 11:33:33,414 INFO  [Log] middle  .emf 
+2020-08-20 11:33:33,415 INFO  [Log] number value  55 
+2020-08-20 11:33:34,475 INFO  [Log] Priyanker  .flv 
+2020-08-20 11:33:34,534 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:34,534 INFO  [Log] middle  .flv 
+2020-08-20 11:33:34,534 INFO  [Log] number value  0 
+2020-08-20 11:33:35,608 INFO  [Log] Priyanker  .getjson 
+2020-08-20 11:33:35,647 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:35,647 INFO  [Log] middle  .getjson 
+2020-08-20 11:33:35,647 INFO  [Log] number value  0 
+2020-08-20 11:33:36,701 INFO  [Log] Priyanker  .git-folder 
+2020-08-20 11:33:36,744 INFO  [Log] Erroror   19 questions 
+2020-08-20 11:33:36,744 INFO  [Log] middle  .git-folder 
+2020-08-20 11:33:36,744 INFO  [Log] number value  19 
+2020-08-20 11:33:37,811 INFO  [Log] Priyanker  .git-info-grafts 
+2020-08-20 11:33:37,858 INFO  [Log] Erroror   6 questions 
+2020-08-20 11:33:37,858 INFO  [Log] middle  .git-info-grafts 
+2020-08-20 11:33:37,858 INFO  [Log] number value  6 
+2020-08-20 11:33:38,910 INFO  [Log] Priyanker  .hgignore 
+2020-08-20 11:33:38,958 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:38,959 INFO  [Log] middle  .hgignore 
+2020-08-20 11:33:38,959 INFO  [Log] number value  0 
+2020-08-20 11:33:40,019 INFO  [Log] Priyanker  .hgtags 
+2020-08-20 11:33:40,072 INFO  [Log] Erroror   9 questions 
+2020-08-20 11:33:40,073 INFO  [Log] middle  .hgtags 
+2020-08-20 11:33:40,073 INFO  [Log] number value  9 
+2020-08-20 11:33:41,151 INFO  [Log] Priyanker  .htaccess 
+2020-08-20 11:33:41,261 INFO  [Log] Erroror   68415 questions 
+2020-08-20 11:33:41,261 INFO  [Log] middle  .htaccess 
+2020-08-20 11:33:41,261 INFO  [Log] number value  68415 
+2020-08-20 11:33:42,314 INFO  [Log] Priyanker  .htpasswd 
+2020-08-20 11:33:42,363 INFO  [Log] Erroror   497 questions 
+2020-08-20 11:33:42,363 INFO  [Log] middle  .htpasswd 
+2020-08-20 11:33:42,363 INFO  [Log] number value  497 
+2020-08-20 11:33:43,419 INFO  [Log] Priyanker  .ico 
+2020-08-20 11:33:43,471 INFO  [Log] Erroror   26 questions 
+2020-08-20 11:33:43,472 INFO  [Log] middle  .ico 
+2020-08-20 11:33:43,472 INFO  [Log] number value  26 
+2020-08-20 11:33:44,541 INFO  [Log] Priyanker  .inf 
+2020-08-20 11:33:44,577 INFO  [Log] Erroror   1 question 
+2020-08-20 11:33:44,577 INFO  [Log] middle  .inf 
+2020-08-20 11:33:44,577 INFO  [Log] number value  1 
+2020-08-20 11:33:45,635 INFO  [Log] Priyanker  .ini 
+2020-08-20 11:33:45,687 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:45,688 INFO  [Log] middle  .ini 
+2020-08-20 11:33:45,688 INFO  [Log] number value  0 
+2020-08-20 11:33:46,765 INFO  [Log] Priyanker  .jar 
+2020-08-20 11:33:46,810 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:46,810 INFO  [Log] middle  .jar 
+2020-08-20 11:33:46,811 INFO  [Log] number value  0 
+2020-08-20 11:33:47,873 INFO  [Log] Priyanker  .java 
+2020-08-20 11:33:47,916 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:47,916 INFO  [Log] middle  .java 
+2020-08-20 11:33:47,916 INFO  [Log] number value  0 
+2020-08-20 11:33:48,967 INFO  [Log] Priyanker  .js 
+2020-08-20 11:33:49,021 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:33:49,021 INFO  [Log] middle  .js 
+2020-08-20 11:33:49,021 INFO  [Log] number value  0 
+2020-08-20 11:33:50,078 INFO  [Log] Priyanker  .layerdiagram 
+2020-08-20 11:33:50,126 INFO  [Log] Erroror   1 question 
+2020-08-20 11:33:50,126 INFO  [Log] middle  .layerdiagram 
+2020-08-20 11:33:50,126 INFO  [Log] number value  1 
+2020-08-20 11:33:51,176 INFO  [Log] Priyanker  .lib 
+2020-08-20 11:33:51,237 INFO  [Log] Erroror   116 questions 
+2020-08-20 11:33:51,237 INFO  [Log] middle  .lib 
+2020-08-20 11:33:51,237 INFO  [Log] number value  116 
+2020-08-20 11:33:52,293 INFO  [Log] Priyanker  .loc 
+2020-08-20 11:33:52,339 INFO  [Log] Erroror   4 questions 
+2020-08-20 11:33:52,339 INFO  [Log] middle  .loc 
+2020-08-20 11:33:52,339 INFO  [Log] number value  4 
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,358 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:33:53,359 INFO  [Log] finallyyyyyy   
+2020-08-20 11:35:50,079 INFO  [Log] Priyanker  .a 
+2020-08-20 11:35:50,129 INFO  [Log] Erroror   123 questions 
+2020-08-20 11:35:50,129 INFO  [Log] middle  .a 
+2020-08-20 11:35:50,129 INFO  [Log] number value  123 
+2020-08-20 11:38:02,210 INFO  [Log] Priyanker  .a 
+2020-08-20 11:38:02,268 INFO  [Log] Erroror   123 questions 
+2020-08-20 11:38:02,268 INFO  [Log] middle  .a 
+2020-08-20 11:38:02,268 INFO  [Log] number value  123 
+2020-08-20 11:38:03,360 INFO  [Log] Priyanker  .ajax 
+2020-08-20 11:38:03,422 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:03,423 INFO  [Log] middle  .ajax 
+2020-08-20 11:38:03,423 INFO  [Log] number value  0 
+2020-08-20 11:38:04,483 INFO  [Log] Priyanker  .app 
+2020-08-20 11:38:04,548 INFO  [Log] Erroror   135 questions 
+2020-08-20 11:38:04,548 INFO  [Log] middle  .app 
+2020-08-20 11:38:04,548 INFO  [Log] number value  135 
+2020-08-20 11:38:05,600 INFO  [Log] Priyanker  .aspxauth 
+2020-08-20 11:38:05,652 INFO  [Log] Erroror   58 questions 
+2020-08-20 11:38:05,652 INFO  [Log] middle  .aspxauth 
+2020-08-20 11:38:05,652 INFO  [Log] number value  58 
+2020-08-20 11:38:06,711 INFO  [Log] Priyanker  .avi 
+2020-08-20 11:38:06,758 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:06,758 INFO  [Log] middle  .avi 
+2020-08-20 11:38:06,758 INFO  [Log] number value  0 
+2020-08-20 11:38:07,884 INFO  [Log] Priyanker  .bash-profile 
+2020-08-20 11:38:08,006 INFO  [Log] Erroror   511 questions 
+2020-08-20 11:38:08,006 INFO  [Log] middle  .bash-profile 
+2020-08-20 11:38:08,006 INFO  [Log] number value  511 
+2020-08-20 11:38:09,096 INFO  [Log] Priyanker  .bashrc 
+2020-08-20 11:38:09,157 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:09,157 INFO  [Log] middle  .bashrc 
+2020-08-20 11:38:09,157 INFO  [Log] number value  0 
+2020-08-20 11:38:10,220 INFO  [Log] Priyanker  .bat 
+2020-08-20 11:38:10,273 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:10,273 INFO  [Log] middle  .bat 
+2020-08-20 11:38:10,273 INFO  [Log] number value  0 
+2020-08-20 11:38:11,327 INFO  [Log] Priyanker  .class-file 
+2020-08-20 11:38:11,375 INFO  [Log] Erroror   256 questions 
+2020-08-20 11:38:11,375 INFO  [Log] middle  .class-file 
+2020-08-20 11:38:11,375 INFO  [Log] number value  256 
+2020-08-20 11:38:12,436 INFO  [Log] Priyanker  .cs-file 
+2020-08-20 11:38:12,486 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:12,486 INFO  [Log] middle  .cs-file 
+2020-08-20 11:38:12,486 INFO  [Log] number value  0 
+2020-08-20 11:38:13,547 INFO  [Log] Priyanker  .cshtml 
+2020-08-20 11:38:13,591 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:13,592 INFO  [Log] middle  .cshtml 
+2020-08-20 11:38:13,592 INFO  [Log] number value  0 
+2020-08-20 11:38:14,657 INFO  [Log] Priyanker  .csv 
+2020-08-20 11:38:14,707 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:14,707 INFO  [Log] middle  .csv 
+2020-08-20 11:38:14,707 INFO  [Log] number value  0 
+2020-08-20 11:38:15,762 INFO  [Log] Priyanker  .ctf 
+2020-08-20 11:38:15,803 INFO  [Log] Erroror   1 question 
+2020-08-20 11:38:15,803 INFO  [Log] middle  .ctf 
+2020-08-20 11:38:15,803 INFO  [Log] number value  1 
+2020-08-20 11:38:16,872 INFO  [Log] Priyanker  .d.ts 
+2020-08-20 11:38:16,920 INFO  [Log] Erroror   86 questions 
+2020-08-20 11:38:16,920 INFO  [Log] middle  .d.ts 
+2020-08-20 11:38:16,920 INFO  [Log] number value  86 
+2020-08-20 11:38:17,971 INFO  [Log] Priyanker  .deb 
+2020-08-20 11:38:18,020 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:18,020 INFO  [Log] middle  .deb 
+2020-08-20 11:38:18,020 INFO  [Log] number value  0 
+2020-08-20 11:38:19,089 INFO  [Log] Priyanker  .dll 
+2020-08-20 11:38:19,135 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:19,135 INFO  [Log] middle  .dll 
+2020-08-20 11:38:19,135 INFO  [Log] number value  0 
+2020-08-20 11:38:20,198 INFO  [Log] Priyanker  .doc 
+2020-08-20 11:38:20,240 INFO  [Log] Erroror   136 questions 
+2020-08-20 11:38:20,240 INFO  [Log] middle  .doc 
+2020-08-20 11:38:20,241 INFO  [Log] number value  136 
+2020-08-20 11:38:21,295 INFO  [Log] Priyanker  .each 
+2020-08-20 11:38:21,342 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:21,342 INFO  [Log] middle  .each 
+2020-08-20 11:38:21,342 INFO  [Log] number value  0 
+2020-08-20 11:38:22,410 INFO  [Log] Priyanker  .emf 
+2020-08-20 11:38:22,458 INFO  [Log] Erroror   55 questions 
+2020-08-20 11:38:22,459 INFO  [Log] middle  .emf 
+2020-08-20 11:38:22,459 INFO  [Log] number value  55 
+2020-08-20 11:38:23,521 INFO  [Log] Priyanker  .flv 
+2020-08-20 11:38:23,565 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:23,565 INFO  [Log] middle  .flv 
+2020-08-20 11:38:23,565 INFO  [Log] number value  0 
+2020-08-20 11:38:24,639 INFO  [Log] Priyanker  .getjson 
+2020-08-20 11:38:24,684 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:24,684 INFO  [Log] middle  .getjson 
+2020-08-20 11:38:24,684 INFO  [Log] number value  0 
+2020-08-20 11:38:25,746 INFO  [Log] Priyanker  .git-folder 
+2020-08-20 11:38:25,795 INFO  [Log] Erroror   19 questions 
+2020-08-20 11:38:25,795 INFO  [Log] middle  .git-folder 
+2020-08-20 11:38:25,795 INFO  [Log] number value  19 
+2020-08-20 11:38:26,846 INFO  [Log] Priyanker  .git-info-grafts 
+2020-08-20 11:38:26,901 INFO  [Log] Erroror   6 questions 
+2020-08-20 11:38:26,901 INFO  [Log] middle  .git-info-grafts 
+2020-08-20 11:38:26,901 INFO  [Log] number value  6 
+2020-08-20 11:38:27,961 INFO  [Log] Priyanker  .hgignore 
+2020-08-20 11:38:28,010 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:28,010 INFO  [Log] middle  .hgignore 
+2020-08-20 11:38:28,010 INFO  [Log] number value  0 
+2020-08-20 11:38:29,070 INFO  [Log] Priyanker  .hgtags 
+2020-08-20 11:38:29,120 INFO  [Log] Erroror   9 questions 
+2020-08-20 11:38:29,120 INFO  [Log] middle  .hgtags 
+2020-08-20 11:38:29,120 INFO  [Log] number value  9 
+2020-08-20 11:38:30,204 INFO  [Log] Priyanker  .htaccess 
+2020-08-20 11:38:30,326 INFO  [Log] Erroror   68415 questions 
+2020-08-20 11:38:30,327 INFO  [Log] middle  .htaccess 
+2020-08-20 11:38:30,327 INFO  [Log] number value  68415 
+2020-08-20 11:38:31,388 INFO  [Log] Priyanker  .htpasswd 
+2020-08-20 11:38:31,440 INFO  [Log] Erroror   497 questions 
+2020-08-20 11:38:31,440 INFO  [Log] middle  .htpasswd 
+2020-08-20 11:38:31,440 INFO  [Log] number value  497 
+2020-08-20 11:38:32,510 INFO  [Log] Priyanker  .ico 
+2020-08-20 11:38:32,569 INFO  [Log] Erroror   26 questions 
+2020-08-20 11:38:32,569 INFO  [Log] middle  .ico 
+2020-08-20 11:38:32,569 INFO  [Log] number value  26 
+2020-08-20 11:38:33,630 INFO  [Log] Priyanker  .inf 
+2020-08-20 11:38:33,685 INFO  [Log] Erroror   1 question 
+2020-08-20 11:38:33,685 INFO  [Log] middle  .inf 
+2020-08-20 11:38:33,685 INFO  [Log] number value  1 
+2020-08-20 11:38:34,737 INFO  [Log] Priyanker  .ini 
+2020-08-20 11:38:34,780 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:34,781 INFO  [Log] middle  .ini 
+2020-08-20 11:38:34,781 INFO  [Log] number value  0 
+2020-08-20 11:38:35,838 INFO  [Log] Priyanker  .jar 
+2020-08-20 11:38:35,900 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:35,900 INFO  [Log] middle  .jar 
+2020-08-20 11:38:35,900 INFO  [Log] number value  0 
+2020-08-20 11:38:36,962 INFO  [Log] Priyanker  .java 
+2020-08-20 11:38:37,010 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:37,010 INFO  [Log] middle  .java 
+2020-08-20 11:38:37,010 INFO  [Log] number value  0 
+2020-08-20 11:38:38,077 INFO  [Log] Priyanker  .js 
+2020-08-20 11:38:38,119 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:38:38,120 INFO  [Log] middle  .js 
+2020-08-20 11:38:38,120 INFO  [Log] number value  0 
+2020-08-20 11:38:39,177 INFO  [Log] Priyanker  .layerdiagram 
+2020-08-20 11:38:39,227 INFO  [Log] Erroror   1 question 
+2020-08-20 11:38:39,227 INFO  [Log] middle  .layerdiagram 
+2020-08-20 11:38:39,227 INFO  [Log] number value  1 
+2020-08-20 11:38:40,285 INFO  [Log] Priyanker  .lib 
+2020-08-20 11:38:40,332 INFO  [Log] Erroror   116 questions 
+2020-08-20 11:38:40,333 INFO  [Log] middle  .lib 
+2020-08-20 11:38:40,333 INFO  [Log] number value  116 
+2020-08-20 11:38:41,394 INFO  [Log] Priyanker  .loc 
+2020-08-20 11:38:41,438 INFO  [Log] Erroror   4 questions 
+2020-08-20 11:38:41,438 INFO  [Log] middle  .loc 
+2020-08-20 11:38:41,438 INFO  [Log] number value  4 
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,465 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:38:42,466 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:15,567 INFO  [Log] Priyanker  .a 
+2020-08-20 11:41:15,626 INFO  [Log] Erroror   123 questions 
+2020-08-20 11:41:15,626 INFO  [Log] middle  .a 
+2020-08-20 11:41:15,626 INFO  [Log] number value  123 
+2020-08-20 11:41:16,723 INFO  [Log] Priyanker  .ajax 
+2020-08-20 11:41:16,773 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:16,773 INFO  [Log] middle  .ajax 
+2020-08-20 11:41:16,773 INFO  [Log] number value  0 
+2020-08-20 11:41:17,829 INFO  [Log] Priyanker  .app 
+2020-08-20 11:41:17,875 INFO  [Log] Erroror   135 questions 
+2020-08-20 11:41:17,875 INFO  [Log] middle  .app 
+2020-08-20 11:41:17,875 INFO  [Log] number value  135 
+2020-08-20 11:41:18,950 INFO  [Log] Priyanker  .aspxauth 
+2020-08-20 11:41:19,032 INFO  [Log] Erroror   58 questions 
+2020-08-20 11:41:19,032 INFO  [Log] middle  .aspxauth 
+2020-08-20 11:41:19,032 INFO  [Log] number value  58 
+2020-08-20 11:41:20,096 INFO  [Log] Priyanker  .avi 
+2020-08-20 11:41:20,142 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:20,142 INFO  [Log] middle  .avi 
+2020-08-20 11:41:20,142 INFO  [Log] number value  0 
+2020-08-20 11:41:21,206 INFO  [Log] Priyanker  .bash-profile 
+2020-08-20 11:41:21,260 INFO  [Log] Erroror   511 questions 
+2020-08-20 11:41:21,260 INFO  [Log] middle  .bash-profile 
+2020-08-20 11:41:21,260 INFO  [Log] number value  511 
+2020-08-20 11:41:22,326 INFO  [Log] Priyanker  .bashrc 
+2020-08-20 11:41:22,375 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:22,375 INFO  [Log] middle  .bashrc 
+2020-08-20 11:41:22,375 INFO  [Log] number value  0 
+2020-08-20 11:41:23,439 INFO  [Log] Priyanker  .bat 
+2020-08-20 11:41:23,487 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:23,488 INFO  [Log] middle  .bat 
+2020-08-20 11:41:23,488 INFO  [Log] number value  0 
+2020-08-20 11:41:24,549 INFO  [Log] Priyanker  .class-file 
+2020-08-20 11:41:24,597 INFO  [Log] Erroror   256 questions 
+2020-08-20 11:41:24,597 INFO  [Log] middle  .class-file 
+2020-08-20 11:41:24,598 INFO  [Log] number value  256 
+2020-08-20 11:41:25,668 INFO  [Log] Priyanker  .cs-file 
+2020-08-20 11:41:25,712 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:25,712 INFO  [Log] middle  .cs-file 
+2020-08-20 11:41:25,712 INFO  [Log] number value  0 
+2020-08-20 11:41:26,775 INFO  [Log] Priyanker  .cshtml 
+2020-08-20 11:41:26,823 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:26,823 INFO  [Log] middle  .cshtml 
+2020-08-20 11:41:26,823 INFO  [Log] number value  0 
+2020-08-20 11:41:27,881 INFO  [Log] Priyanker  .csv 
+2020-08-20 11:41:27,926 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:27,926 INFO  [Log] middle  .csv 
+2020-08-20 11:41:27,926 INFO  [Log] number value  0 
+2020-08-20 11:41:28,993 INFO  [Log] Priyanker  .ctf 
+2020-08-20 11:41:29,042 INFO  [Log] Erroror   1 question 
+2020-08-20 11:41:29,042 INFO  [Log] middle  .ctf 
+2020-08-20 11:41:29,042 INFO  [Log] number value  1 
+2020-08-20 11:41:30,101 INFO  [Log] Priyanker  .d.ts 
+2020-08-20 11:41:30,152 INFO  [Log] Erroror   86 questions 
+2020-08-20 11:41:30,152 INFO  [Log] middle  .d.ts 
+2020-08-20 11:41:30,152 INFO  [Log] number value  86 
+2020-08-20 11:41:31,212 INFO  [Log] Priyanker  .deb 
+2020-08-20 11:41:31,258 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:31,258 INFO  [Log] middle  .deb 
+2020-08-20 11:41:31,258 INFO  [Log] number value  0 
+2020-08-20 11:41:32,316 INFO  [Log] Priyanker  .dll 
+2020-08-20 11:41:32,366 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:32,366 INFO  [Log] middle  .dll 
+2020-08-20 11:41:32,367 INFO  [Log] number value  0 
+2020-08-20 11:41:33,425 INFO  [Log] Priyanker  .doc 
+2020-08-20 11:41:33,469 INFO  [Log] Erroror   136 questions 
+2020-08-20 11:41:33,469 INFO  [Log] middle  .doc 
+2020-08-20 11:41:33,469 INFO  [Log] number value  136 
+2020-08-20 11:41:34,535 INFO  [Log] Priyanker  .each 
+2020-08-20 11:41:34,581 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:34,581 INFO  [Log] middle  .each 
+2020-08-20 11:41:34,581 INFO  [Log] number value  0 
+2020-08-20 11:41:35,652 INFO  [Log] Priyanker  .emf 
+2020-08-20 11:41:35,697 INFO  [Log] Erroror   55 questions 
+2020-08-20 11:41:35,697 INFO  [Log] middle  .emf 
+2020-08-20 11:41:35,697 INFO  [Log] number value  55 
+2020-08-20 11:41:36,750 INFO  [Log] Priyanker  .flv 
+2020-08-20 11:41:36,808 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:36,808 INFO  [Log] middle  .flv 
+2020-08-20 11:41:36,808 INFO  [Log] number value  0 
+2020-08-20 11:41:37,869 INFO  [Log] Priyanker  .getjson 
+2020-08-20 11:41:37,921 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:37,921 INFO  [Log] middle  .getjson 
+2020-08-20 11:41:37,921 INFO  [Log] number value  0 
+2020-08-20 11:41:38,976 INFO  [Log] Priyanker  .git-folder 
+2020-08-20 11:41:39,026 INFO  [Log] Erroror   19 questions 
+2020-08-20 11:41:39,026 INFO  [Log] middle  .git-folder 
+2020-08-20 11:41:39,026 INFO  [Log] number value  19 
+2020-08-20 11:41:40,082 INFO  [Log] Priyanker  .git-info-grafts 
+2020-08-20 11:41:40,125 INFO  [Log] Erroror   6 questions 
+2020-08-20 11:41:40,125 INFO  [Log] middle  .git-info-grafts 
+2020-08-20 11:41:40,125 INFO  [Log] number value  6 
+2020-08-20 11:41:41,181 INFO  [Log] Priyanker  .hgignore 
+2020-08-20 11:41:41,237 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:41,237 INFO  [Log] middle  .hgignore 
+2020-08-20 11:41:41,237 INFO  [Log] number value  0 
+2020-08-20 11:41:42,294 INFO  [Log] Priyanker  .hgtags 
+2020-08-20 11:41:42,339 INFO  [Log] Erroror   9 questions 
+2020-08-20 11:41:42,339 INFO  [Log] middle  .hgtags 
+2020-08-20 11:41:42,339 INFO  [Log] number value  9 
+2020-08-20 11:41:43,460 INFO  [Log] Priyanker  .htaccess 
+2020-08-20 11:41:43,594 INFO  [Log] Erroror   68415 questions 
+2020-08-20 11:41:43,594 INFO  [Log] middle  .htaccess 
+2020-08-20 11:41:43,594 INFO  [Log] number value  68415 
+2020-08-20 11:41:44,648 INFO  [Log] Priyanker  .htpasswd 
+2020-08-20 11:41:44,689 INFO  [Log] Erroror   497 questions 
+2020-08-20 11:41:44,689 INFO  [Log] middle  .htpasswd 
+2020-08-20 11:41:44,689 INFO  [Log] number value  497 
+2020-08-20 11:41:45,749 INFO  [Log] Priyanker  .ico 
+2020-08-20 11:41:45,798 INFO  [Log] Erroror   26 questions 
+2020-08-20 11:41:45,798 INFO  [Log] middle  .ico 
+2020-08-20 11:41:45,798 INFO  [Log] number value  26 
+2020-08-20 11:41:46,862 INFO  [Log] Priyanker  .inf 
+2020-08-20 11:41:46,904 INFO  [Log] Erroror   1 question 
+2020-08-20 11:41:46,904 INFO  [Log] middle  .inf 
+2020-08-20 11:41:46,904 INFO  [Log] number value  1 
+2020-08-20 11:41:47,966 INFO  [Log] Priyanker  .ini 
+2020-08-20 11:41:48,030 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:48,030 INFO  [Log] middle  .ini 
+2020-08-20 11:41:48,030 INFO  [Log] number value  0 
+2020-08-20 11:41:49,083 INFO  [Log] Priyanker  .jar 
+2020-08-20 11:41:49,140 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:49,140 INFO  [Log] middle  .jar 
+2020-08-20 11:41:49,140 INFO  [Log] number value  0 
+2020-08-20 11:41:50,198 INFO  [Log] Priyanker  .java 
+2020-08-20 11:41:50,246 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:50,246 INFO  [Log] middle  .java 
+2020-08-20 11:41:50,246 INFO  [Log] number value  0 
+2020-08-20 11:41:51,305 INFO  [Log] Priyanker  .js 
+2020-08-20 11:41:51,347 INFO  [Log] Erroror   0 questions 
+2020-08-20 11:41:51,347 INFO  [Log] middle  .js 
+2020-08-20 11:41:51,347 INFO  [Log] number value  0 
+2020-08-20 11:41:52,408 INFO  [Log] Priyanker  .layerdiagram 
+2020-08-20 11:41:52,456 INFO  [Log] Erroror   1 question 
+2020-08-20 11:41:52,456 INFO  [Log] middle  .layerdiagram 
+2020-08-20 11:41:52,456 INFO  [Log] number value  1 
+2020-08-20 11:41:53,525 INFO  [Log] Priyanker  .lib 
+2020-08-20 11:41:53,569 INFO  [Log] Erroror   116 questions 
+2020-08-20 11:41:53,569 INFO  [Log] middle  .lib 
+2020-08-20 11:41:53,569 INFO  [Log] number value  116 
+2020-08-20 11:41:54,627 INFO  [Log] Priyanker  .loc 
+2020-08-20 11:41:54,679 INFO  [Log] Erroror   4 questions 
+2020-08-20 11:41:54,679 INFO  [Log] middle  .loc 
+2020-08-20 11:41:54,679 INFO  [Log] number value  4 
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,687 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 11:41:55,688 INFO  [Log] finallyyyyyy   
+2020-08-20 12:03:29,644 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 12:03:29,692 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 12:03:29,692 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 12:03:30,765 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 12:07:41,601 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 12:07:41,647 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 12:07:41,647 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 12:07:42,752 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 12:07:42,798 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:42,798 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:43,861 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 12:07:43,910 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 12:07:43,910 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 12:07:44,969 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 12:07:45,022 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 12:07:45,022 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 12:07:46,082 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 12:07:46,135 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:46,136 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:47,191 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 12:07:47,241 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 12:07:47,242 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 12:07:48,313 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 12:07:48,358 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:48,358 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:49,413 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 12:07:49,459 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:49,459 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:50,525 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 12:07:50,576 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 12:07:50,576 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 12:07:51,644 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 12:07:51,689 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:51,689 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:52,747 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 12:07:52,789 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:52,789 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:53,851 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 12:07:53,902 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:53,902 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:54,970 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 12:07:55,017 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:07:55,017 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:07:56,070 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 12:07:56,115 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 12:07:56,115 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 12:07:57,171 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 12:07:57,221 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:57,221 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:58,281 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 12:07:58,323 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:07:58,323 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:07:59,383 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 12:07:59,426 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 12:07:59,426 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 12:08:00,486 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 12:08:00,539 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:00,540 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:01,604 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 12:08:01,652 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 12:08:01,652 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 12:08:02,717 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 12:08:02,777 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:02,777 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:03,845 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 12:08:03,890 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:03,890 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:04,959 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 12:08:05,001 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 12:08:05,002 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 12:08:06,061 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 12:08:06,108 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 12:08:06,108 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 12:08:07,178 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 12:08:07,222 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:07,222 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:08,279 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 12:08:08,328 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 12:08:08,329 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 12:08:09,404 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 12:08:09,487 INFO  [Log] Nubers with questions present below tag names   68416 questions 
+2020-08-20 12:08:09,487 INFO  [Log] number accociated with tag and question  68416 
+2020-08-20 12:08:10,542 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 12:08:10,589 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 12:08:10,589 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 12:08:11,647 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 12:08:11,693 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 12:08:11,693 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 12:08:12,750 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 12:08:12,795 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:08:12,796 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:08:13,849 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 12:08:13,901 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:13,901 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:14,967 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 12:08:15,028 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:15,028 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:16,085 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 12:08:16,133 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:16,133 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:17,192 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 12:08:17,237 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:08:17,237 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:08:18,289 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 12:08:18,339 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:08:18,340 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:08:19,394 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 12:08:19,441 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 12:08:19,441 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 12:08:20,500 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 12:08:20,545 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 12:08:20,546 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 12:08:21,561 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68416, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 12:08:21,567 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68416} 
+2020-08-20 12:08:21,567 INFO  [Log] highest value in array  68416 
+2020-08-20 12:19:18,838 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 12:19:18,897 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 12:19:18,898 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 12:19:20,004 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 12:19:20,073 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:20,073 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:21,142 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 12:19:21,210 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 12:19:21,210 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 12:19:22,302 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 12:19:22,362 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 12:19:22,362 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 12:19:23,431 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 12:19:23,482 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:23,482 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:24,537 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 12:19:24,588 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 12:19:24,588 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 12:19:25,660 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 12:19:25,717 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:25,717 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:26,780 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 12:19:26,835 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:26,836 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:27,906 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 12:19:27,959 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 12:19:27,959 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 12:19:29,026 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 12:19:29,083 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:29,083 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:30,144 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 12:19:30,192 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:30,193 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:31,256 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 12:19:31,314 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:31,314 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:32,373 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 12:19:32,422 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:19:32,423 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:19:33,499 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 12:19:33,554 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 12:19:33,554 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 12:19:34,610 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 12:19:34,659 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:34,659 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:35,722 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 12:19:35,768 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:35,768 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:36,839 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 12:19:36,888 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 12:19:36,888 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 12:19:37,946 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 12:19:37,995 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:37,995 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:39,067 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 12:19:39,138 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 12:19:39,138 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 12:19:40,211 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 12:19:40,292 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:40,292 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:41,352 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 12:19:41,414 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:41,414 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:42,489 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 12:19:42,586 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 12:19:42,586 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 12:19:43,660 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 12:19:43,703 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 12:19:43,703 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 12:19:44,784 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 12:19:44,846 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:44,846 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:45,915 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 12:19:45,969 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 12:19:45,969 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 12:19:47,028 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 12:19:47,076 INFO  [Log] Nubers with questions present below tag names   68416 questions 
+2020-08-20 12:19:47,076 INFO  [Log] number accociated with tag and question  68416 
+2020-08-20 12:19:48,134 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 12:19:48,181 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 12:19:48,181 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 12:19:49,243 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 12:19:49,295 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 12:19:49,295 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 12:19:50,349 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 12:19:50,398 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:19:50,398 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:19:51,466 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 12:19:51,525 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:51,525 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:52,584 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 12:19:52,647 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:52,647 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:53,707 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 12:19:53,751 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:53,751 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:54,803 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 12:19:54,854 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:19:54,854 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:19:55,916 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 12:19:55,962 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:19:55,962 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:19:57,026 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 12:19:57,073 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 12:19:57,073 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 12:19:58,123 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 12:19:58,176 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 12:19:58,176 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 12:19:59,180 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68416, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 12:19:59,185 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68416} 
+2020-08-20 12:19:59,185 INFO  [Log] highest value in array  68416 
+2020-08-20 12:48:11,203 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 12:48:11,258 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 12:48:11,258 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 12:48:12,380 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 12:48:12,449 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:12,449 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:13,508 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 12:48:13,547 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 12:48:13,547 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 12:48:14,607 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 12:48:14,644 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 12:48:14,644 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 12:48:15,707 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 12:48:15,755 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:15,755 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:16,822 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 12:48:16,866 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 12:48:16,866 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 12:48:17,919 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 12:48:17,973 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:17,973 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:19,047 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 12:48:19,094 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:19,094 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:20,140 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 12:48:20,198 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 12:48:20,198 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 12:48:21,254 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 12:48:21,297 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:21,297 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:22,360 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 12:48:22,412 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:22,412 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:23,473 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 12:48:23,515 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:23,515 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:24,565 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 12:48:24,614 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:48:24,614 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:48:25,667 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 12:48:25,717 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 12:48:25,718 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 12:48:26,767 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 12:48:26,815 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:26,815 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:27,875 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 12:48:27,924 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:27,924 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:28,980 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 12:48:29,025 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 12:48:29,025 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 12:48:30,077 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 12:48:30,123 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:30,123 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:31,180 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 12:48:31,235 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 12:48:31,235 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 12:48:32,284 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 12:48:32,328 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:32,328 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:33,390 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 12:48:33,428 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:33,428 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:34,503 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 12:48:34,554 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 12:48:34,554 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 12:48:35,612 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 12:48:35,658 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 12:48:35,658 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 12:48:36,714 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 12:48:36,747 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:36,747 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:37,808 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 12:48:37,851 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 12:48:37,851 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 12:48:38,917 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 12:48:38,971 INFO  [Log] Nubers with questions present below tag names   68416 questions 
+2020-08-20 12:48:38,971 INFO  [Log] number accociated with tag and question  68416 
+2020-08-20 12:48:40,024 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 12:48:40,070 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 12:48:40,070 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 12:48:41,130 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 12:48:41,181 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 12:48:41,181 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 12:48:42,252 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 12:48:42,308 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:48:42,309 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:48:43,368 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 12:48:43,418 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:43,418 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:44,498 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 12:48:44,561 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:44,561 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:45,620 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 12:48:45,667 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:45,667 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:46,717 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 12:48:46,763 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 12:48:46,763 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 12:48:47,817 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 12:48:47,864 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 12:48:47,865 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 12:48:48,919 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 12:48:48,951 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 12:48:48,951 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 12:48:50,008 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 12:48:50,056 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 12:48:50,056 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 12:48:51,063 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68416, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 12:48:51,065 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68416} 
+2020-08-20 12:48:51,065 INFO  [Log] highest value in array  68416 
+2020-08-20 12:48:51,065 INFO  [Log] Key is .htaccess 
+2020-08-20 12:48:51,065 INFO  [Log] Key with max questions: .htaccess 
+2020-08-20 13:10:36,625 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 13:10:36,680 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 13:10:36,681 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 13:10:37,793 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 13:10:37,846 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:37,846 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:38,912 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 13:10:38,978 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 13:10:38,978 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 13:10:40,047 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 13:10:40,105 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 13:10:40,105 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 13:10:41,176 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 13:10:41,226 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:41,226 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:42,323 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 13:10:42,396 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 13:10:42,396 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 13:10:43,471 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 13:10:43,536 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:43,536 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:44,606 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 13:10:44,668 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:44,668 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:45,743 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 13:10:45,800 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 13:10:45,800 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 13:10:46,935 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 13:10:46,999 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:46,999 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:48,071 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 13:10:48,176 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:48,176 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:49,246 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 13:10:49,307 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:49,307 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:50,367 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 13:10:50,424 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:10:50,424 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:10:51,491 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 13:10:51,539 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 13:10:51,540 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 13:10:52,610 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 13:10:52,655 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:52,655 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:53,728 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 13:10:53,774 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:53,774 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:54,841 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 13:10:54,890 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 13:10:54,890 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 13:10:55,959 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 13:10:56,011 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:56,011 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:57,078 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 13:10:57,145 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 13:10:57,145 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 13:10:58,201 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 13:10:58,248 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:58,249 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:10:59,318 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 13:10:59,362 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:10:59,362 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:11:00,423 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 13:11:00,472 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 13:11:00,472 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 13:11:01,535 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 13:11:01,582 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 13:11:01,583 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 13:11:02,639 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 13:11:02,685 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:11:02,685 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:11:03,757 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 13:11:03,801 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 13:11:03,801 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 13:11:04,877 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 13:11:04,926 INFO  [Log] Nubers with questions present below tag names   68416 questions 
+2020-08-20 13:11:04,926 INFO  [Log] number accociated with tag and question  68416 
+2020-08-20 13:11:05,985 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 13:11:06,037 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 13:11:06,037 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 13:11:07,109 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 13:11:07,154 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 13:11:07,154 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 13:11:08,227 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 13:11:08,291 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:11:08,291 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:11:09,356 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 13:11:09,400 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:11:09,400 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:11:10,481 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 13:11:10,545 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:11:10,546 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:11:11,607 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 13:11:11,655 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:11:11,655 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:11:12,713 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 13:11:12,759 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:11:12,759 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:11:13,823 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 13:11:13,872 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:11:13,873 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:11:14,940 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 13:11:14,987 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 13:11:14,987 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 13:11:16,053 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 13:11:16,103 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 13:11:16,103 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 13:11:17,114 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68416, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 13:11:17,116 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68416} 
+2020-08-20 13:11:17,116 INFO  [Log] highest value in array  68416 
+2020-08-20 13:11:17,116 INFO  [Log] Key is .htaccess 
+2020-08-20 13:11:17,116 INFO  [Log] Key with max questions: .htaccess 
+2020-08-20 13:22:42,258 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 13:22:42,320 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 13:22:42,320 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 13:22:43,397 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 13:22:43,462 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:43,462 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:44,606 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 13:22:44,688 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 13:22:44,689 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 13:22:45,787 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 13:22:45,860 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 13:22:45,860 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 13:22:46,929 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 13:22:46,986 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:46,986 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:48,046 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 13:22:48,100 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 13:22:48,101 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 13:22:49,173 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 13:22:49,236 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:49,236 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:50,301 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 13:22:50,353 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:50,353 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:51,413 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 13:22:51,473 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 13:22:51,473 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 13:22:52,535 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 13:22:52,587 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:52,587 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:53,663 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 13:22:53,730 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:53,730 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:54,788 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 13:22:54,836 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:54,836 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:55,928 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 13:22:56,004 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:22:56,005 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:22:57,077 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 13:22:57,142 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 13:22:57,142 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 13:22:58,223 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 13:22:58,295 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:58,296 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:22:59,368 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 13:22:59,437 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:22:59,437 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:00,504 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 13:23:00,552 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 13:23:00,552 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 13:23:01,639 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 13:23:01,739 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:01,739 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:02,819 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 13:23:02,888 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 13:23:02,888 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 13:23:03,967 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 13:23:04,022 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:04,022 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:05,086 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 13:23:05,140 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:05,140 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:06,222 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 13:23:06,291 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 13:23:06,291 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 13:23:07,388 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 13:23:07,485 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 13:23:07,485 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 13:23:08,571 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 13:23:08,640 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:08,641 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:09,718 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 13:23:09,787 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 13:23:09,787 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 13:23:10,863 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 13:23:10,948 INFO  [Log] Nubers with questions present below tag names   68416 questions 
+2020-08-20 13:23:10,948 INFO  [Log] number accociated with tag and question  68416 
+2020-08-20 13:23:12,020 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 13:23:12,078 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 13:23:12,078 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 13:23:13,162 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 13:23:13,244 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 13:23:13,244 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 13:23:14,327 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 13:23:14,376 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:23:14,376 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:23:15,450 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 13:23:15,520 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:15,520 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:16,602 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 13:23:16,683 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:16,683 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:17,779 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 13:23:17,877 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:17,877 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:18,937 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 13:23:18,983 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:23:18,983 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:23:20,110 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 13:23:20,175 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:23:20,175 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:23:21,249 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 13:23:21,316 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 13:23:21,316 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 13:23:22,376 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 13:23:22,427 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 13:23:22,427 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 13:23:23,430 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68416, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 13:23:23,433 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68416} 
+2020-08-20 13:23:23,433 INFO  [Log] highest value in array  68416 
+2020-08-20 13:23:23,433 INFO  [Log] Key is .htaccess 
+2020-08-20 13:23:23,433 INFO  [Log] Key with max questions: .htaccess 
+2020-08-20 13:54:50,004 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 13:54:50,063 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 13:54:50,063 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 13:54:51,125 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 13:54:51,200 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:54:51,201 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:54:52,270 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 13:54:52,328 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 13:54:52,328 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 13:54:53,391 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 13:54:53,448 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 13:54:53,448 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 13:54:54,505 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 13:54:54,553 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:54:54,553 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:54:55,610 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 13:54:55,658 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 13:54:55,658 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 13:54:56,717 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 13:54:56,770 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:54:56,770 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:54:57,823 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 13:54:57,877 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:54:57,877 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:54:58,943 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 13:54:58,988 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 13:54:58,988 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 13:55:00,050 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 13:55:00,099 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:00,099 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:01,158 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 13:55:01,202 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:01,202 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:02,256 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 13:55:02,304 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:02,304 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:03,364 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 13:55:03,410 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:55:03,410 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:55:04,478 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 13:55:04,518 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 13:55:04,518 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 13:55:05,583 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 13:55:05,630 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:05,630 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:06,693 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 13:55:06,744 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:06,744 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:07,811 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 13:55:07,861 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 13:55:07,861 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 13:55:08,924 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 13:55:08,974 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:08,974 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:10,029 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 13:55:10,078 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 13:55:10,079 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 13:55:11,138 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 13:55:11,195 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:11,195 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:12,259 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 13:55:12,301 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:12,301 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:13,357 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 13:55:13,398 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 13:55:13,398 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 13:55:14,468 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 13:55:14,505 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 13:55:14,506 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 13:55:15,558 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 13:55:15,608 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:15,608 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:16,662 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 13:55:16,720 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 13:55:16,720 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 13:55:17,792 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 13:55:17,840 INFO  [Log] Nubers with questions present below tag names   68417 questions 
+2020-08-20 13:55:17,840 INFO  [Log] number accociated with tag and question  68417 
+2020-08-20 13:55:18,904 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 13:55:18,958 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 13:55:18,958 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 13:55:20,025 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 13:55:20,070 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 13:55:20,070 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 13:55:21,122 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 13:55:21,172 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:55:21,172 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:55:22,242 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 13:55:22,295 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:22,295 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:23,351 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 13:55:23,399 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:23,399 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:24,497 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 13:55:24,554 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:24,554 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:25,607 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 13:55:25,653 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 13:55:25,653 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 13:55:26,705 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 13:55:26,752 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 13:55:26,752 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 13:55:27,809 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 13:55:27,853 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 13:55:27,853 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 13:55:28,913 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 13:55:28,962 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 13:55:28,962 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 13:55:29,975 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68417, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 13:55:29,977 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68417} 
+2020-08-20 13:55:29,977 INFO  [Log] highest value in array  68417 
+2020-08-20 13:55:29,977 INFO  [Log] Key is .htaccess 
+2020-08-20 13:55:29,977 INFO  [Log] Key with max questions: .htaccess 
+2020-08-20 14:06:33,654 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 14:06:33,699 INFO  [Log] Nubers with questions present below tag names   123 questions 
+2020-08-20 14:06:33,699 INFO  [Log] number accociated with tag and question  123 
+2020-08-20 14:06:34,751 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 14:06:34,795 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:34,795 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:35,857 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 14:06:35,901 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 14:06:35,901 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 14:06:36,965 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 14:06:37,009 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 14:06:37,009 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 14:06:38,077 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 14:06:38,116 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:38,116 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:39,171 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 14:06:39,217 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 14:06:39,217 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 14:06:40,278 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 14:06:40,324 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:40,324 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:41,379 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 14:06:41,433 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:41,433 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:42,496 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 14:06:42,542 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 14:06:42,542 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 14:06:43,599 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 14:06:43,647 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:43,647 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:44,715 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 14:06:44,749 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:44,749 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:45,804 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 14:06:45,852 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:45,852 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:46,912 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 14:06:46,959 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 14:06:46,959 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 14:06:48,019 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 14:06:48,066 INFO  [Log] Nubers with questions present below tag names   86 questions 
+2020-08-20 14:06:48,066 INFO  [Log] number accociated with tag and question  86 
+2020-08-20 14:06:49,124 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 14:06:49,170 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:49,170 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:50,229 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 14:06:50,278 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:50,278 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:51,337 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 14:06:51,385 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 14:06:51,385 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 14:06:52,449 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 14:06:52,487 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:52,488 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:53,542 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 14:06:53,574 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 14:06:53,574 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 14:06:54,628 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 14:06:54,661 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:54,661 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:55,719 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 14:06:55,765 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:55,765 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:06:56,824 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 14:06:56,858 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 14:06:56,858 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 14:06:57,913 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 14:06:57,959 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 14:06:57,959 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 14:06:59,017 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 14:06:59,067 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:06:59,067 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:07:00,124 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 14:07:00,169 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 14:07:00,169 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 14:07:01,237 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 14:07:01,278 INFO  [Log] Nubers with questions present below tag names   68417 questions 
+2020-08-20 14:07:01,278 INFO  [Log] number accociated with tag and question  68417 
+2020-08-20 14:07:02,354 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 14:07:02,404 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 14:07:02,404 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 14:07:03,466 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 14:07:03,508 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 14:07:03,508 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 14:07:04,567 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 14:07:04,615 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 14:07:04,615 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 14:07:05,673 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 14:07:05,717 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:07:05,717 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:07:06,771 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 14:07:06,817 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:07:06,817 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:07:07,874 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 14:07:07,907 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:07:07,907 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:07:08,965 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 14:07:09,015 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 14:07:09,015 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 14:07:10,064 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 14:07:10,112 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 14:07:10,112 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 14:07:11,173 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 14:07:11,218 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 14:07:11,218 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 14:07:12,275 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 14:07:12,330 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 14:07:12,330 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 14:07:13,332 INFO  [Log] Map before sort {} {.a=123, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=86, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68417, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 14:07:13,334 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=86, .lib=116, .a=123, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68417} 
+2020-08-20 14:07:13,334 INFO  [Log] highest value in array  68417 
+2020-08-20 14:07:13,334 INFO  [Log] Key is .htaccess 
+2020-08-20 14:07:13,334 INFO  [Log] Tag with max questions: .htaccess 
+2020-08-20 15:34:30,517 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 15:34:30,591 INFO  [Log] Nubers with questions present below tag names   124 questions 
+2020-08-20 15:34:30,592 INFO  [Log] number accociated with tag and question  124 
+2020-08-20 15:34:31,665 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 15:34:31,724 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:31,725 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:32,785 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 15:34:32,834 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 15:34:32,834 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 15:34:33,889 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 15:34:33,938 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 15:34:33,938 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 15:34:35,003 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 15:34:35,064 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:35,064 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:36,133 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 15:34:36,196 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 15:34:36,196 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 15:34:37,264 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 15:34:37,316 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:37,316 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:38,386 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 15:34:38,437 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:38,437 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:39,530 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 15:34:39,572 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 15:34:39,573 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 15:34:40,627 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 15:34:40,679 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:40,679 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:41,729 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 15:34:41,780 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:41,780 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:42,851 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 15:34:42,924 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:42,924 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:43,996 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 15:34:44,033 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:34:44,033 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:34:45,098 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 15:34:45,138 INFO  [Log] Nubers with questions present below tag names   85 questions 
+2020-08-20 15:34:45,138 INFO  [Log] number accociated with tag and question  85 
+2020-08-20 15:34:46,199 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 15:34:46,259 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:46,259 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:47,343 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 15:34:47,394 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:47,394 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:48,473 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 15:34:48,516 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 15:34:48,516 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 15:34:49,600 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 15:34:49,670 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:49,670 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:50,737 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 15:34:50,788 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 15:34:50,788 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 15:34:51,849 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 15:34:51,918 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:51,918 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:52,978 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 15:34:53,033 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:53,033 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:54,087 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 15:34:54,160 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 15:34:54,160 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 15:34:55,222 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 15:34:55,260 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 15:34:55,260 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 15:34:56,322 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 15:34:56,369 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:34:56,369 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:34:57,423 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 15:34:57,465 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 15:34:57,465 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 15:34:58,549 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 15:34:58,625 INFO  [Log] Nubers with questions present below tag names   68418 questions 
+2020-08-20 15:34:58,625 INFO  [Log] number accociated with tag and question  68418 
+2020-08-20 15:34:59,686 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 15:34:59,736 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 15:34:59,736 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 15:35:00,799 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 15:35:00,855 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 15:35:00,856 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 15:35:01,949 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 15:35:02,009 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:35:02,009 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:35:03,064 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 15:35:03,110 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:35:03,111 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:35:04,167 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 15:35:04,212 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:35:04,212 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:35:05,265 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 15:35:05,314 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:35:05,314 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:35:06,371 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 15:35:06,420 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:35:06,420 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:35:07,471 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 15:35:07,529 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:35:07,529 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:35:08,594 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 15:35:08,632 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 15:35:08,632 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 15:35:09,688 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 15:35:09,738 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 15:35:09,738 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 15:35:10,739 INFO  [Log] Map before sort {} {.a=124, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=85, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68418, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 15:35:10,765 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=85, .lib=116, .a=124, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68418} 
+2020-08-20 15:35:10,766 INFO  [Log] highest value in array  68418 
+2020-08-20 15:35:10,766 INFO  [Log] Key is .htaccess 
+2020-08-20 15:35:10,766 INFO  [Log] Tag with max questions: .htaccess 
+2020-08-20 15:37:21,724 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 15:37:21,828 INFO  [Log] Nubers with questions present below tag names   124 questions 
+2020-08-20 15:37:21,828 INFO  [Log] number accociated with tag and question  124 
+2020-08-20 15:37:22,881 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 15:37:22,936 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:22,936 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:24,002 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 15:37:24,064 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 15:37:24,065 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 15:37:25,142 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 15:37:25,183 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 15:37:25,183 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 15:37:26,245 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 15:37:26,310 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:26,310 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:27,363 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 15:37:27,411 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 15:37:27,411 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 15:37:28,471 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 15:37:28,527 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:28,527 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:29,596 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 15:37:29,638 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:29,638 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:30,700 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 15:37:30,737 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 15:37:30,738 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 15:37:31,792 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 15:37:31,844 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:31,844 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:32,938 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 15:37:32,990 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:32,990 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:34,042 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 15:37:34,106 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:34,106 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:35,184 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 15:37:35,232 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:37:35,232 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:37:36,297 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 15:37:36,345 INFO  [Log] Nubers with questions present below tag names   85 questions 
+2020-08-20 15:37:36,345 INFO  [Log] number accociated with tag and question  85 
+2020-08-20 15:37:37,405 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 15:37:37,469 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:37,469 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:38,538 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 15:37:38,585 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:38,586 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:39,648 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 15:37:39,697 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 15:37:39,697 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 15:37:40,765 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 15:37:40,823 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:40,823 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:41,899 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 15:37:41,944 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 15:37:41,944 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 15:37:43,014 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 15:37:43,059 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:43,059 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:44,132 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 15:37:44,182 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:44,182 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:45,244 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 15:37:45,284 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 15:37:45,284 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 15:37:46,333 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 15:37:46,382 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 15:37:46,382 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 15:37:47,465 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 15:37:47,532 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:47,532 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:48,598 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 15:37:48,644 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 15:37:48,644 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 15:37:49,713 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 15:37:49,779 INFO  [Log] Nubers with questions present below tag names   68418 questions 
+2020-08-20 15:37:49,779 INFO  [Log] number accociated with tag and question  68418 
+2020-08-20 15:37:50,842 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 15:37:50,892 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 15:37:50,892 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 15:37:51,954 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 15:37:52,003 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 15:37:52,003 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 15:37:53,066 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 15:37:53,109 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:37:53,109 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:37:54,174 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 15:37:54,245 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:54,245 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:55,294 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 15:37:55,337 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:55,337 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:56,429 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 15:37:56,486 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:56,486 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:57,600 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 15:37:57,637 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:37:57,638 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:37:58,700 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 15:37:58,756 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:37:58,756 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:37:59,818 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 15:37:59,879 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 15:37:59,879 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 15:38:00,950 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 15:38:01,013 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 15:38:01,013 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 15:38:02,020 INFO  [Log] Map before sort {} {.a=124, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=85, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68418, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 15:38:02,023 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=85, .lib=116, .a=124, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68418} 
+2020-08-20 15:38:02,023 INFO  [Log] highest value in array  68418 
+2020-08-20 15:38:02,023 INFO  [Log] Key is .htaccess 
+2020-08-20 15:38:02,023 INFO  [Log] Tag with max questions: .htaccess 
+2020-08-20 15:43:48,054 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 15:43:48,139 INFO  [Log] Nubers with questions present below tag names   124 questions 
+2020-08-20 15:43:48,139 INFO  [Log] number accociated with tag and question  124 
+2020-08-20 15:43:49,196 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 15:43:49,255 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:43:49,255 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:43:50,323 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 15:43:50,367 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 15:43:50,368 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 15:43:51,451 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 15:43:51,497 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 15:43:51,497 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 15:43:52,562 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 15:43:52,613 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:43:52,613 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:43:53,671 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 15:43:53,755 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 15:43:53,755 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 15:43:54,823 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 15:43:54,883 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:43:54,883 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:43:55,941 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 15:43:55,992 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:43:55,992 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:43:57,062 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 15:43:57,111 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 15:43:57,111 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 15:43:58,171 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 15:43:58,215 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:43:58,215 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:43:59,272 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 15:43:59,352 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:43:59,352 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:00,411 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 15:44:00,462 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:00,462 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:01,528 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 15:44:01,574 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:44:01,574 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:44:02,661 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 15:44:02,709 INFO  [Log] Nubers with questions present below tag names   85 questions 
+2020-08-20 15:44:02,709 INFO  [Log] number accociated with tag and question  85 
+2020-08-20 15:44:03,787 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 15:44:03,841 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:03,841 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:04,910 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 15:44:04,959 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:04,959 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:06,024 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 15:44:06,072 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 15:44:06,072 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 15:44:07,125 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 15:44:07,171 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:07,171 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:08,232 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 15:44:08,278 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 15:44:08,278 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 15:44:09,335 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 15:44:09,382 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:09,383 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:10,448 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 15:44:10,500 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:10,500 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:11,557 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 15:44:11,606 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 15:44:11,607 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 15:44:12,668 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 15:44:12,720 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 15:44:12,720 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 15:44:13,785 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 15:44:13,857 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:13,857 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:14,926 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 15:44:14,975 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 15:44:14,975 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 15:44:16,062 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 15:44:16,127 INFO  [Log] Nubers with questions present below tag names   68418 questions 
+2020-08-20 15:44:16,128 INFO  [Log] number accociated with tag and question  68418 
+2020-08-20 15:44:17,201 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 15:44:17,273 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 15:44:17,273 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 15:44:18,336 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 15:44:18,396 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 15:44:18,396 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 15:44:19,458 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 15:44:19,505 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:44:19,505 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:44:20,569 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 15:44:20,611 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:20,611 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:21,667 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 15:44:21,709 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:21,709 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:22,775 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 15:44:22,819 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:22,819 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:23,874 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 15:44:23,930 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 15:44:23,930 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 15:44:25,002 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 15:44:25,048 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 15:44:25,048 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 15:44:26,112 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 15:44:26,155 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 15:44:26,155 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 15:44:27,218 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 15:44:27,263 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 15:44:27,263 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 15:44:28,274 INFO  [Log] Map before sort {} {.a=124, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=85, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68418, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 15:44:28,276 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=85, .lib=116, .a=124, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68418} 
+2020-08-20 15:44:28,276 INFO  [Log] highest value in array  68418 
+2020-08-20 15:44:28,276 INFO  [Log] Key is .htaccess 
+2020-08-20 15:44:28,276 INFO  [Log] Tag with max questions: .htaccess 
+2020-08-20 16:23:09,119 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 16:23:09,199 INFO  [Log] Nubers with questions present below tag names   124 questions 
+2020-08-20 16:23:09,199 INFO  [Log] number accociated with tag and question  124 
+2020-08-20 16:23:09,239 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 16:23:09,302 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:09,302 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:09,367 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 16:23:09,429 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 16:23:09,429 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 16:23:09,499 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 16:23:09,540 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 16:23:09,540 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 16:23:09,586 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 16:23:09,633 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:09,633 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:09,685 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 16:23:09,732 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 16:23:09,732 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 16:23:09,782 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 16:23:09,825 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:09,825 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:09,869 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 16:23:09,945 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:09,946 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:09,996 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 16:23:10,041 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 16:23:10,042 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 16:23:10,090 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 16:23:10,137 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:10,137 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:10,185 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 16:23:10,234 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:10,234 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:10,278 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 16:23:10,327 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:10,327 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:10,374 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 16:23:10,420 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 16:23:10,420 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 16:23:10,468 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 16:23:10,513 INFO  [Log] Nubers with questions present below tag names   85 questions 
+2020-08-20 16:23:10,513 INFO  [Log] number accociated with tag and question  85 
+2020-08-20 16:23:10,559 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 16:23:10,605 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:10,605 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:10,653 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 16:23:10,704 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:10,705 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:10,756 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 16:23:10,794 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 16:23:10,794 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 16:23:10,841 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 16:23:10,888 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:10,888 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:10,936 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 16:23:10,983 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 16:23:10,983 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 16:23:11,014 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 16:23:11,062 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:11,062 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:11,110 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 16:23:11,157 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:11,157 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:11,205 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 16:23:11,253 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 16:23:11,253 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 16:23:11,298 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 16:23:11,344 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 16:23:11,344 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 16:23:11,391 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 16:23:11,445 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:11,445 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:11,486 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 16:23:11,517 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 16:23:11,517 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 16:23:11,564 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 16:23:11,610 INFO  [Log] Nubers with questions present below tag names   68418 questions 
+2020-08-20 16:23:11,610 INFO  [Log] number accociated with tag and question  68418 
+2020-08-20 16:23:11,658 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 16:23:11,705 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 16:23:11,705 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 16:23:11,753 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 16:23:11,803 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 16:23:11,803 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 16:23:11,847 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 16:23:11,894 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 16:23:11,894 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 16:23:11,940 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 16:23:11,973 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:11,973 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:12,019 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 16:23:12,066 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:12,066 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:12,112 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 16:23:12,158 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:12,158 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:12,205 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 16:23:12,238 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:23:12,238 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:23:12,293 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 16:23:12,331 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 16:23:12,331 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 16:23:12,361 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 16:23:12,402 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 16:23:12,402 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 16:23:12,455 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 16:23:12,496 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 16:23:12,497 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 16:23:12,497 INFO  [Log] Map before sort {} {.a=124, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=85, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68418, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 16:23:12,498 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=85, .lib=116, .a=124, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68418} 
+2020-08-20 16:23:12,498 INFO  [Log] highest value in array  68418 
+2020-08-20 16:23:12,498 INFO  [Log] Key is .htaccess 
+2020-08-20 16:23:12,498 INFO  [Log] Tag with max questions: .htaccess 
+2020-08-20 16:25:33,753 INFO  [Log] Every Tag name on grid of first page  .a 
+2020-08-20 16:25:33,802 INFO  [Log] Nubers with questions present below tag names   124 questions 
+2020-08-20 16:25:33,803 INFO  [Log] number accociated with tag and question  124 
+2020-08-20 16:25:33,848 INFO  [Log] Every Tag name on grid of first page  .ajax 
+2020-08-20 16:25:33,879 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:33,879 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:33,911 INFO  [Log] Every Tag name on grid of first page  .app 
+2020-08-20 16:25:33,945 INFO  [Log] Nubers with questions present below tag names   135 questions 
+2020-08-20 16:25:33,945 INFO  [Log] number accociated with tag and question  135 
+2020-08-20 16:25:33,991 INFO  [Log] Every Tag name on grid of first page  .aspxauth 
+2020-08-20 16:25:34,055 INFO  [Log] Nubers with questions present below tag names   58 questions 
+2020-08-20 16:25:34,056 INFO  [Log] number accociated with tag and question  58 
+2020-08-20 16:25:34,129 INFO  [Log] Every Tag name on grid of first page  .avi 
+2020-08-20 16:25:34,165 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:34,165 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:34,219 INFO  [Log] Every Tag name on grid of first page  .bash-profile 
+2020-08-20 16:25:34,257 INFO  [Log] Nubers with questions present below tag names   511 questions 
+2020-08-20 16:25:34,257 INFO  [Log] number accociated with tag and question  511 
+2020-08-20 16:25:34,298 INFO  [Log] Every Tag name on grid of first page  .bashrc 
+2020-08-20 16:25:34,359 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:34,359 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:34,409 INFO  [Log] Every Tag name on grid of first page  .bat 
+2020-08-20 16:25:34,462 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:34,462 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:34,499 INFO  [Log] Every Tag name on grid of first page  .class-file 
+2020-08-20 16:25:34,546 INFO  [Log] Nubers with questions present below tag names   256 questions 
+2020-08-20 16:25:34,546 INFO  [Log] number accociated with tag and question  256 
+2020-08-20 16:25:34,589 INFO  [Log] Every Tag name on grid of first page  .cs-file 
+2020-08-20 16:25:34,637 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:34,637 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:34,687 INFO  [Log] Every Tag name on grid of first page  .cshtml 
+2020-08-20 16:25:34,728 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:34,728 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:34,758 INFO  [Log] Every Tag name on grid of first page  .csv 
+2020-08-20 16:25:34,793 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:34,793 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:34,879 INFO  [Log] Every Tag name on grid of first page  .ctf 
+2020-08-20 16:25:34,917 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 16:25:34,917 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 16:25:34,965 INFO  [Log] Every Tag name on grid of first page  .d.ts 
+2020-08-20 16:25:34,997 INFO  [Log] Nubers with questions present below tag names   85 questions 
+2020-08-20 16:25:34,997 INFO  [Log] number accociated with tag and question  85 
+2020-08-20 16:25:35,043 INFO  [Log] Every Tag name on grid of first page  .deb 
+2020-08-20 16:25:35,093 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:35,093 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:35,138 INFO  [Log] Every Tag name on grid of first page  .dll 
+2020-08-20 16:25:35,190 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:35,190 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:35,236 INFO  [Log] Every Tag name on grid of first page  .doc 
+2020-08-20 16:25:35,281 INFO  [Log] Nubers with questions present below tag names   136 questions 
+2020-08-20 16:25:35,281 INFO  [Log] number accociated with tag and question  136 
+2020-08-20 16:25:35,326 INFO  [Log] Every Tag name on grid of first page  .each 
+2020-08-20 16:25:35,372 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:35,373 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:35,404 INFO  [Log] Every Tag name on grid of first page  .emf 
+2020-08-20 16:25:35,441 INFO  [Log] Nubers with questions present below tag names   55 questions 
+2020-08-20 16:25:35,442 INFO  [Log] number accociated with tag and question  55 
+2020-08-20 16:25:35,483 INFO  [Log] Every Tag name on grid of first page  .flv 
+2020-08-20 16:25:35,516 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:35,516 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:35,563 INFO  [Log] Every Tag name on grid of first page  .getjson 
+2020-08-20 16:25:35,611 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:35,611 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:35,665 INFO  [Log] Every Tag name on grid of first page  .git-folder 
+2020-08-20 16:25:35,707 INFO  [Log] Nubers with questions present below tag names   19 questions 
+2020-08-20 16:25:35,707 INFO  [Log] number accociated with tag and question  19 
+2020-08-20 16:25:35,756 INFO  [Log] Every Tag name on grid of first page  .git-info-grafts 
+2020-08-20 16:25:35,801 INFO  [Log] Nubers with questions present below tag names   6 questions 
+2020-08-20 16:25:35,801 INFO  [Log] number accociated with tag and question  6 
+2020-08-20 16:25:35,847 INFO  [Log] Every Tag name on grid of first page  .hgignore 
+2020-08-20 16:25:35,898 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:35,898 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:35,939 INFO  [Log] Every Tag name on grid of first page  .hgtags 
+2020-08-20 16:25:35,972 INFO  [Log] Nubers with questions present below tag names   9 questions 
+2020-08-20 16:25:35,972 INFO  [Log] number accociated with tag and question  9 
+2020-08-20 16:25:36,018 INFO  [Log] Every Tag name on grid of first page  .htaccess 
+2020-08-20 16:25:36,064 INFO  [Log] Nubers with questions present below tag names   68418 questions 
+2020-08-20 16:25:36,065 INFO  [Log] number accociated with tag and question  68418 
+2020-08-20 16:25:36,096 INFO  [Log] Every Tag name on grid of first page  .htpasswd 
+2020-08-20 16:25:36,131 INFO  [Log] Nubers with questions present below tag names   497 questions 
+2020-08-20 16:25:36,131 INFO  [Log] number accociated with tag and question  497 
+2020-08-20 16:25:36,183 INFO  [Log] Every Tag name on grid of first page  .ico 
+2020-08-20 16:25:36,222 INFO  [Log] Nubers with questions present below tag names   26 questions 
+2020-08-20 16:25:36,222 INFO  [Log] number accociated with tag and question  26 
+2020-08-20 16:25:36,254 INFO  [Log] Every Tag name on grid of first page  .inf 
+2020-08-20 16:25:36,301 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 16:25:36,301 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 16:25:36,348 INFO  [Log] Every Tag name on grid of first page  .ini 
+2020-08-20 16:25:36,397 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:36,397 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:36,445 INFO  [Log] Every Tag name on grid of first page  .jar 
+2020-08-20 16:25:36,488 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:36,489 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:36,522 INFO  [Log] Every Tag name on grid of first page  .java 
+2020-08-20 16:25:36,585 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:36,585 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:36,646 INFO  [Log] Every Tag name on grid of first page  .js 
+2020-08-20 16:25:36,701 INFO  [Log] Nubers with questions present below tag names   0 questions 
+2020-08-20 16:25:36,701 INFO  [Log] number accociated with tag and question  0 
+2020-08-20 16:25:36,751 INFO  [Log] Every Tag name on grid of first page  .layerdiagram 
+2020-08-20 16:25:36,789 INFO  [Log] Nubers with questions present below tag names   1 question 
+2020-08-20 16:25:36,789 INFO  [Log] number accociated with tag and question  1 
+2020-08-20 16:25:36,849 INFO  [Log] Every Tag name on grid of first page  .lib 
+2020-08-20 16:25:36,891 INFO  [Log] Nubers with questions present below tag names   116 questions 
+2020-08-20 16:25:36,891 INFO  [Log] number accociated with tag and question  116 
+2020-08-20 16:25:36,955 INFO  [Log] Every Tag name on grid of first page  .loc 
+2020-08-20 16:25:36,983 INFO  [Log] Nubers with questions present below tag names   4 questions 
+2020-08-20 16:25:36,983 INFO  [Log] number accociated with tag and question  4 
+2020-08-20 16:25:36,984 INFO  [Log] Map before sort {} {.a=124, .ajax=0, .app=135, .aspxauth=58, .avi=0, .bash-profile=511, .bashrc=0, .bat=0, .class-file=256, .cs-file=0, .cshtml=0, .csv=0, .ctf=1, .d.ts=85, .deb=0, .dll=0, .doc=136, .each=0, .emf=55, .flv=0, .getjson=0, .git-folder=19, .git-info-grafts=6, .hgignore=0, .hgtags=9, .htaccess=68418, .htpasswd=497, .ico=26, .inf=1, .ini=0, .jar=0, .java=0, .js=0, .layerdiagram=1, .lib=116, .loc=4} 
+2020-08-20 16:25:36,985 INFO  [Log] Sorted map {.ajax=0, .avi=0, .bashrc=0, .bat=0, .cs-file=0, .cshtml=0, .csv=0, .deb=0, .dll=0, .each=0, .flv=0, .getjson=0, .hgignore=0, .ini=0, .jar=0, .java=0, .js=0, .ctf=1, .inf=1, .layerdiagram=1, .loc=4, .git-info-grafts=6, .hgtags=9, .git-folder=19, .ico=26, .emf=55, .aspxauth=58, .d.ts=85, .lib=116, .a=124, .app=135, .doc=136, .class-file=256, .htpasswd=497, .bash-profile=511, .htaccess=68418} 
+2020-08-20 16:25:36,985 INFO  [Log] highest value in array  68418 
+2020-08-20 16:25:36,985 INFO  [Log] Key is .htaccess 
+2020-08-20 16:25:36,985 INFO  [Log] Tag with max questions: .htaccess 
